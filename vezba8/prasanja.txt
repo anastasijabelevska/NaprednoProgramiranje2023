@@ -1,0 +1,12 @@
+1.koja e najvisokata tocka  na zemjata? a)Kilimandzaro, b) Mont Everest, c) pelister
+2.Koja od slednite drzavi se naogja vo evropa? a) estonija, b) liban, c) andora
+3.Koj e glaven grad na rusija?a) berlin, b) moskva, c) kopenhagen
+4.Kolku strani ima svetot a) 4, b) 6, c) 2
+5.Sto e sonceto?a) zvezda, b) kometa, c)  planeta
+6.Koj e glaven grad na srbija?a) skopje, b) belgrad , c) atina
+7.Najgolema reka vo makedonija?a) vardar, b) treska, c) dragor
+8.koja drzava se naogja na balkanot?a) makedonija, b)kina , c) kanada
+9.koj e grad vo makedonija?a) bitola, b) belgrad, c) prilep
+10.koj e programski jazik?a) c++, b) java, c) angliski
+11.Najgolema drzavi?a)rusija  b) makedonija, c) kina
+12.kade se naogja makedonija?a) azija b)evropa , c) balkanski poluostrov
